@@ -1,0 +1,192 @@
+<?php
+  include("functions.inc");
+  SuppressionCache();
+?>
+
+<html>
+
+<?php OutputHead(); ?>
+
+<body link="#000000" leftmargin=5 topmargin=0 marginwidth=0 marginheight=0 vlink="#000000" alink="#000000">
+
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+  <td valign="top">
+
+  <td><img src="dot00000.gif" width="1" height="1"><br></td>
+  <td valign="top" width="1011">
+    <table BGCOLOR='Silver' width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" >
+
+
+<?php ShowPageHead(150); ?>
+
+
+    <tr>
+
+<!-- left column -->
+       <td width="150" valign="top">
+
+         <table class="left_col_shift" cellspacing="0" cellpadding="0" border="0">
+         <tr>
+            <!--separator-->
+            <tr><td  height="10"></td></tr>
+            <tr><td><?php ShowMenu(); ?></td></tr>
+         </tr>
+         </table>
+
+
+       </td>
+
+
+
+<!--begin content-->
+       <td class="content" valign="top">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+<td>
+
+<h1>Уважаемые посетители !</h1>
+<p>
+
+
+
+</p>
+
+<p>Частное научно-производственное малое предприятие &laquo;Ника&raquo; представляет вашему вниманию свой проект &laquo;Babylon Soft&raquo;.</p>
+<p>Наше предприятие, имея богатый опыт в разработке под заказ программ комплексного управления предприятиями для разного вида 
+бизнеса (от торговых точек до крупных рознично-торговых сетей и производственных предприятий), создала этот сайт для тех, 
+кто заинтересован в повышении эффективности своего бизнеса за счет внедрения передовых компьютерных технологий в 
+делопроизводство своего предприятия.</p>
+<p>
+На сайте представлены реальные программы, охватывающие разные области малого и среднего бизнеса: 
+<UL>
+<LI>складской учет, производство, рознично-оптовую торговлю, учет предоставленных услуг;</LI>
+<LI>суммарно-денежный учет товара на торговых точках, в киосках, в магазинах и в торговых сетях;</LI>
+<LI>денежный учет от домашней бухгалтерии и семейного бюджета, до бухгалтерского учета и финансового контроля деятельности предприятий;</LI>
+<LI>оптимальный заказ на закупку товара по прайс-листам поставщиков товара;</LI>
+<LI>учет приема пациентов, обследований и заключений в частной врачебной практике одного врача или лечебно-диагностических центров.</LI>
+</UL>
+</p>
+
+<p>Основные принципы, которых мы придерживались при разработке программ:
+     <UL>
+       <LI><B>простота в освоении</B> даже неопытными пользователями;</LI>
+       <LI><B>максимальная функциональность,</B> свойственная крупным проектам под заказ;</LI>
+       <LI><B>минимальная стоимость.</B></LI>
+     </UL>
+</p>
+<p>Попробуйте поработать с нашими программами и оценить - насколько нам удалось придержаться этих принципов.
+</p>
+<p>Применяя каждую нашу программу по отдельности, Вы сможете выполнять отдельно взятые задачи Вашего предприятия.
+Использовав же возможности наших программ в комплексе, Вы получите полнофункциональный проект по управлению деятельностью всего Вашего предприятия. 
+</p>
+<p>Все наши программы можно использовать бесплатно с небольшими ограничениями
+или без ограничений после получения коммерческой (платной) регистрации.
+</p>
+<p>Периодически посещайте наш сайт и Вы обязательно найдете здесь то, что искали.
+Функциональные возможности наших программ постоянно расширяются.
+</p>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td valign="top" ALIGN="right"><img width="86" height="81" alt="" src="./images/signature.gif" sabprocessed="1" /></td>
+            <td>
+            <p>С наилучшими пожеланиями,<br />
+            Яременко Владимир Григорьевич</p>
+            <span class="comm" sabchildelements="15" sabprocessed="1">
+            Директор ЧНПМП &laquo;Ника&raquo;.<br> 
+            Руководитель проекта &laquo;Babylon Soft&raquo;.<br> 
+            </span></td>
+        </tr>
+    </tbody>
+</table>
+
+</td></tr>
+</table>
+
+       </td>
+<!--end content-->
+
+
+<!-- right column -->
+       <td width="150" valign="top">
+
+         <table class="right_col_shift" cellspacing="0" cellpadding="0" border="0">
+         <tr>
+            <tr><td  height="10"></td></tr>
+            <tr><td><?php ShowQuickNews(); ?></td></tr>
+         </tr>
+         <tr><td  height="10"></td></tr>
+
+         <tr><td>
+<center><a href='http://freehost.com.ua' rel='nofollow' target='_blank' title='Надежный украинский хостинг: UNIX & WINDOWS'>
+<script language="JavaScript">
+<!--
+r=Math.random();
+ref=document.referrer;x=screen.width;y=screen.height;
+bps=screen.colorDepth;lng=navigator.systemLanguage;
+document.write("<img src='http://tools.freehost.com.ua/cnt.php?&ct=1&cid=2293&");
+document.write("ref="+escape(ref)+"&x="+x+"&y="+y+"&bps="+bps+"&lng="+lng+"&r="+r+"' ");
+document.write("border=0>");
+//-->
+</script>
+</a></center>
+         </td></tr>
+
+         <tr><td  height="10"></td></tr>
+
+         <tr><td>
+<center><a href='http://freehost.com.ua' rel='nofollow' target='_blank' title='Надежный украинский хостинг: UNIX & WINDOWS'>
+<script language="JavaScript">
+<!--
+r=Math.random();
+ref=document.referrer;x=screen.width;y=screen.height;
+bps=screen.colorDepth;lng=navigator.systemLanguage;
+document.write("<img src='http://tools.freehost.com.ua/cnt.php?&ct=1&cid=555&");
+document.write("ref="+escape(ref)+"&x="+x+"&y="+y+"&bps="+bps+"&lng="+lng+"&r="+r+"' ");
+document.write("border=0>");
+//-->
+</script>
+</a></center>
+         </td></tr>
+
+         <tr><td  height="10"></td></tr>
+         <tr><td>
+<!-- begin of Top100 logo -->
+<a href="http://top100.rambler.ru/home?id=1125924"><center><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></center></a>
+<!-- end of Top100 logo -->
+         </td></tr>
+         </table>
+
+
+       </td>
+
+
+    </tr>
+
+
+<?php ShowFooter(150); ?>
+
+
+    </table>
+  </td>
+  <td><img src="dot00000.gif" width="1" height="1"><br></td>
+</tr>
+</table>
+
+
+
+</td>
+</tr>
+</table>
+
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1125924"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1125924" alt="" width="1" height="1" border="0"></noscript>
+<!-- end of Top100 code -->
+
+</body>
+
+</html>
